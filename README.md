@@ -23,14 +23,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Frameworks & Tools**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -76,8 +74,8 @@ Independent Python implementation of **Haralick's 1973 GLCM algorithm** for text
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LavanyaTulsian&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaTulsian&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-readme-stats-theta-five-89.vercel.app/api?username=LavanyaTulsian&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats-theta-five-89.vercel.app/api/top-langs/?username=LavanyaTulsian&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
 
 </div>
 

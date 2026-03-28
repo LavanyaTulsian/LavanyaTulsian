@@ -68,6 +68,7 @@ Independent Python implementation of **Haralick's 1973 GLCM algorithm** for text
 - 🚀 **Technical Co-Founder** at [CAN – Cancer Anonymous](http://testing.welcometocan.com) — Startup India certified mental health platform; managed SRS, vendor transitions, AWS infra, and a full SDLC from scratch
 - 🎓 B.Tech CSE (AI & ML) — UPES Dehradun, CGPA 8.08
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -78,7 +79,7 @@ Independent Python implementation of **Haralick's 1973 GLCM algorithm** for text
 <img src="https://github-readme-stats-theta-five-89.vercel.app/api/top-langs/?username=LavanyaTulsian&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
 
 </div>
-
+-->
 ---
 
 ## 🎯 Currently Focused On
